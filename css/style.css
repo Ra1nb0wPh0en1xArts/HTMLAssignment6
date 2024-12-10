@@ -48,10 +48,15 @@ nav ul li{
 }
 
 .cycle-slideshow{
-  width: 30%;
+  width: 33%;
   position: relative;
   margin: 0 auto;
 }
+
+.cycle-slideshow img{
+  width: 100%;
+}
+
 
 .directory h1{
   font-size: 60px;
