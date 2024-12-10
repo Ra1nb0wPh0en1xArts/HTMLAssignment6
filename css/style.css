@@ -48,7 +48,9 @@ nav ul li{
 }
 
 .cycle-slideshow{
+  width: 30%;
   position: relative;
+  margin: 0 auto;
 }
 
 .directory h1{
